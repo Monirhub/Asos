@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#F89D20"
+    android:weightSum="12"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="11"
+        android:orientation="vertical">
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+
+
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/bg"
+                    android:onClick="c1"
+                    android:layout_margin="10dp"
+                    android:padding="0dp"
+                    android:paddingBottom="0dp"
+                    android:orientation="vertical">
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:textAlignment="center"
+                        android:padding="10dp"
+                        android:textSize="20sp"
+                        android:textColor="#DD111111"
+                        android:textStyle="bold"
+                        android:fontFamily="sans-serif-black"
+                        android:text="@string/c1aa"/>
+                    <ImageView
+                        android:layout_width="200dp"
+                        android:layout_height="60dp"
+                        android:layout_gravity="center"
+                        android:layout_marginBottom="5dp"
+                        android:src="@drawable/cona"/>
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:background="#E17E05"
+                        android:padding="8dp"
+                        android:orientation="horizontal">
+                        <TextView
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:textSize="15dp"
+                            android:textColor="#fff"
+                            android:textAlignment="textStart"
+                            android:text="564 Used today"/>
+                        <TextView
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:textSize="15dp"
+                            android:textColor="#fff"
+                            android:textAlignment="textEnd"
+                            android:text="Success rate 98% "/>
+
+                    </LinearLayout>
+
+                </LinearLayout>
+
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/bg"
+                    android:onClick="c2"
+                    android:layout_margin="10dp"
+                    android:padding="0dp"
+                    android:paddingBottom="0dp"
+                    android:orientation="vertical">
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:textAlignment="center"
+                        android:padding="10dp"
+                        android:textSize="20sp"
+                        android:textColor="#DD111111"
+                        android:textStyle="bold"
+                        android:fontFamily="sans-serif-black"
+                        android:text="$5 Off $25 With Clipped Coupon"/>
+                    <ImageView
+                        android:layout_width="200dp"
+                        android:layout_height="60dp"
+                        android:layout_gravity="center"
+                        android:layout_marginBottom="5dp"
+                        android:src="@drawable/conb"/>
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:background="#E17E05"
+                        android:padding="8dp"
+                        android:orientation="horizontal">
+                        <TextView
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:textSize="15dp"
+                            android:textColor="#fff"
+                            android:textAlignment="textStart"
+                            android:text="850 Used today"/>
+                        <TextView
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:textSize="15dp"
+                            android:textColor="#fff"
+                            android:textAlignment="textEnd"
+                            android:text="Success rate 97% "/>
+
+                    </LinearLayout>
+
+                </LinearLayout>
+
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/bg"
+                    android:onClick="c3"
+                    android:layout_margin="10dp"
+                    android:padding="0dp"
+                    android:orientation="vertical">
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:textAlignment="center"
+                        android:padding="10dp"
+                        android:textSize="20sp"
+                        android:textColor="#DD111111"
+                        android:textStyle="bold"
+                        android:fontFamily="sans-serif-black"
+                        android:text="Up to 25% off Home Items from Family Dollar"/>
+                    <ImageView
+                        android:layout_width="200dp"
+                        android:layout_height="60dp"
+                        android:layout_gravity="center"
+                        android:layout_marginBottom="5dp"
+                        android:src="@drawable/conc"/>
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:background="#E17E05"
+                        android:padding="8dp"
+                        android:orientation="horizontal">
+                        <TextView
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:textSize="15dp"
+                            android:textColor="#fff"
+                            android:textAlignment="textStart"
+                            android:text="654 Used today"/>
+                        <TextView
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:textSize="15dp"
+                            android:textColor="#fff"
+                            android:textAlignment="textEnd"
+                            android:text="Success rate 98% "/>
+
+                    </LinearLayout>
+
+                </LinearLayout>
+
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/bg"
+                    android:onClick="c4"
+                    android:layout_margin="10dp"
+                    android:padding="0dp"
+                    android:paddingBottom="0dp"
+                    android:orientation="vertical">
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:textAlignment="center"
+                        android:padding="10dp"
+                        android:textSize="20sp"
+                        android:textColor="#DD111111"
+                        android:textStyle="bold"
+                        android:fontFamily="sans-serif-black"
+                        android:text="Family Dollar rintable Coupons"/>
+                    <ImageView
+                        android:layout_width="200dp"
+                        android:layout_height="60dp"
+                        android:layout_gravity="center"
+                        android:layout_marginBottom="5dp"
+                        android:src="@drawable/cond"/>
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:background="#E17E05"
+                        android:padding="8dp"
+                        android:orientation="horizontal">
+                        <TextView
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:textSize="15dp"
+                            android:textColor="#fff"
+                            android:textAlignment="textStart"
+                            android:text="365 Used today"/>
+                        <TextView
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:textSize="15dp"
+                            android:textColor="#fff"
+                            android:textAlignment="textEnd"
+                            android:text="Success rate 100% "/>
+
+                    </LinearLayout>
+
+                </LinearLayout>
+
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/bg"
+                    android:onClick="c5"
+                    android:layout_margin="10dp"
+                    android:padding="0dp"
+                    android:paddingBottom="0dp"
+                    android:orientation="vertical">
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:textAlignment="center"
+                        android:padding="10dp"
+                        android:textSize="20sp"
+                        android:textColor="#DD111111"
+                        android:textStyle="bold"
+                        android:fontFamily="sans-serif-black"
+                        android:text="Save 50% Compared to Nationl Brand"/>
+                    <ImageView
+                        android:layout_width="200dp"
+                        android:layout_height="60dp"
+                        android:layout_gravity="center"
+                        android:layout_marginBottom="5dp"
+                        android:src="@drawable/cone"/>
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:background="#E17E05"
+                        android:padding="8dp"
+                        android:orientation="horizontal">
+                        <TextView
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:textSize="15dp"
+                            android:textColor="#fff"
+                            android:textAlignment="textStart"
+                            android:text="568 Used today"/>
+                        <TextView
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:textSize="15dp"
+                            android:textColor="#fff"
+                            android:textAlignment="textEnd"
+                            android:text="Success rate 97% "/>
+
+                    </LinearLayout>
+
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/bg"
+                    android:onClick="c6"
+                    android:layout_margin="10dp"
+                    android:padding="0dp"
+                    android:paddingBottom="0dp"
+                    android:orientation="vertical">
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:textAlignment="center"
+                        android:padding="10dp"
+                        android:textSize="20sp"
+                        android:textColor="#DD111111"
+                        android:textStyle="bold"
+                        android:fontFamily="sans-serif-black"
+                        android:text="Get 20% Off On All Orders Using Family Dollar Coupon Code"/>
+                    <ImageView
+                        android:layout_width="200dp"
+                        android:layout_height="60dp"
+                        android:layout_gravity="center"
+                        android:layout_marginBottom="5dp"
+                        android:src="@drawable/conf"/>
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:background="#E17E05"
+                        android:padding="8dp"
+                        android:orientation="horizontal">
+                        <TextView
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:textSize="15dp"
+                            android:textColor="#fff"
+                            android:textAlignment="textStart"
+                            android:text="784 Used today"/>
+                        <TextView
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:textSize="15dp"
+                            android:textColor="#fff"
+                            android:textAlignment="textEnd"
+                            android:text="Success rate 99% "/>
+
+                    </LinearLayout>
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/bg"
+                    android:onClick="c7"
+                    android:layout_margin="10dp"
+                    android:padding="0dp"
+                    android:paddingBottom="0dp"
+                    android:orientation="vertical">
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:textAlignment="center"
+                        android:padding="10dp"
+                        android:textSize="20sp"
+                        android:textColor="#DD111111"
+                        android:textStyle="bold"
+                        android:fontFamily="sans-serif-black"
+                        android:text="25% OFF on everything"/>
+                    <ImageView
+                        android:layout_width="200dp"
+                        android:layout_height="60dp"
+                        android:layout_gravity="center"
+                        android:layout_marginBottom="5dp"
+                        android:src="@drawable/cong"/>
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:background="#E17E05"
+                        android:padding="8dp"
+                        android:orientation="horizontal">
+                        <TextView
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:textSize="15dp"
+                            android:textColor="#fff"
+                            android:textAlignment="textStart"
+                            android:text="145 Used today"/>
+                        <TextView
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:textSize="15dp"
+                            android:textColor="#fff"
+                            android:textAlignment="textEnd"
+                            android:text="Success rate 99% "/>
+
+                    </LinearLayout>
+
+                </LinearLayout>
+
+
+
+            </LinearLayout>
+        </ScrollView>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:orientation="vertical"
+        android:layout_weight="1">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/bannerAd"
+            android:orientation="vertical" />
+
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android/Coupons/Coupon APP/iron s/AE/app/src/main/res/layout/activity_c1.xml" value="0.27291666666666664" />
+        <entry key="..\:/Android/Coupons/Coupon APP/iron s/AE/app/src/main/res/layout/activity_c2.xml" value="0.27291666666666664" />
+        <entry key="..\:/Android/Coupons/Coupon APP/iron s/AE/app/src/main/res/layout/activity_c3.xml" value="0.14270833333333333" />
+        <entry key="..\:/Android/Coupons/Coupon APP/iron s/AE/app/src/main/res/layout/activity_c4.xml" value="0.14270833333333333" />
+        <entry key="..\:/Android/Coupons/Coupon APP/iron s/AE/app/src/main/res/layout/activity_c5.xml" value="0.27291666666666664" />
+        <entry key="..\:/Android/Coupons/Coupon APP/iron s/AE/app/src/main/res/layout/activity_c6.xml" value="0.27291666666666664" />
+        <entry key="..\:/Android/Coupons/Coupon APP/iron s/AE/app/src/main/res/layout/activity_c7.xml" value="0.27291666666666664" />
+        <entry key="..\:/Android/Coupons/Coupon APP/iron s/AE/app/src/main/res/layout/activity_main.xml" value="0.27291666666666664" />
+        <entry key="..\:/Android/Coupons/Coupon APP/iron s/Costco/Costco/Costoco/app/src/main/res/layout/activity_c1.xml" value="0.27291666666666664" />
+        <entry key="..\:/Android/Coupons/Coupon APP/iron s/Costco/Costco/Costoco/app/src/main/res/layout/activity_c2.xml" value="0.27291666666666664" />
+        <entry key="..\:/Android/Coupons/Coupon APP/iron s/Costco/Costco/Costoco/app/src/main/res/layout/activity_c3.xml" value="0.27291666666666664" />
+        <entry key="..\:/Android/Coupons/Coupon APP/iron s/Costco/Costco/Costoco/app/src/main/res/layout/activity_c4.xml" value="0.27291666666666664" />
+        <entry key="..\:/Android/Coupons/Coupon APP/iron s/Costco/Costco/Costoco/app/src/main/res/layout/activity_c5.xml" value="0.27291666666666664" />
+        <entry key="..\:/Android/Coupons/Coupon APP/iron s/Costco/Costco/Costoco/app/src/main/res/layout/activity_c6.xml" value="0.27291666666666664" />
+        <entry key="..\:/Android/Coupons/Coupon APP/iron s/Costco/Costco/Costoco/app/src/main/res/layout/activity_c7.xml" value="0.27291666666666664" />
+        <entry key="..\:/Android/Coupons/Coupon APP/iron s/Costco/Costco/Costoco/app/src/main/res/layout/activity_main.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/suhin/Desktop/Asos 1.0.3/Asos 1.0.3/app/src/main/res/layout/activity_a1.xml" value="0.14270833333333333" />
+        <entry key="..\:/Users/suhin/Desktop/Asos 1.0.3/Asos 1.0.3/app/src/main/res/layout/activity_c1.xml" value="0.1" />
+        <entry key="..\:/Users/suhin/Desktop/Asos 1.0.3/Asos 1.0.3/app/src/main/res/layout/activity_c2.xml" value="0.14270833333333333" />
+        <entry key="..\:/Users/suhin/Desktop/Asos 1.0.3/Asos 1.0.3/app/src/main/res/layout/activity_c3.xml" value="0.14270833333333333" />
+        <entry key="..\:/Users/suhin/Desktop/Asos 1.0.3/Asos 1.0.3/app/src/main/res/layout/activity_c4.xml" value="0.14270833333333333" />
+        <entry key="..\:/Users/suhin/Desktop/Asos 1.0.3/Asos 1.0.3/app/src/main/res/layout/activity_c5.xml" value="0.14270833333333333" />
+        <entry key="..\:/Users/suhin/Desktop/Asos 1.0.3/Asos 1.0.3/app/src/main/res/layout/activity_c6.xml" value="0.14270833333333333" />
+        <entry key="..\:/Users/suhin/Desktop/Asos 1.0.3/Asos 1.0.3/app/src/main/res/layout/activity_c7.xml" value="0.14270833333333333" />
+        <entry key="..\:/Users/suhin/Desktop/Asos 1.0.3/Asos 1.0.3/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/suhin/Desktop/Etsy/AE/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/suhin/Desktop/Family Test i 1.5/Costoco/app/src/main/res/layout/activity_main.xml" value="0.2682291666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

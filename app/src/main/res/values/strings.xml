@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Coupon For Family Dollar</string>
+    <string name="start">205235712</string>
+
+
+    <string name="c1">Save 50% Off Using Code</string>
+    <string name="c2">$10 Costco Shop Card With Gold Star Membership</string>
+    <string name="c3">Costco Hot Buys Coupons</string>
+    <string name="c4">Enjoy 20% Off For New Customers Through Google Express</string>
+    <string name="c5">Costco Promo Code: $75 off Your Order</string>
+    <string name="c6">Take $50 off 511 Portable Power Station with Anker promo code</string>
+    <string name="c7">Save Up to $400 During Costco Tech Event</string>
+    <string name="c1a">Check out the Weekly Ads for up to 80% off,\n Use the code brfore expired</string>
+    <string name="get_deal_now">Get Deal now</string>
+    <string name="c2a">Shop The Weekly Ad For Low Prices and Incredible Savings</string>
+
+    <string name="c3a">Shop Electronics, Food and Beverages</string>
+
+    <string name="c4a">Save up to 80% on printable coupon</string>
+
+    <string name="c5a">Smart coupon for 50% save on national Brand products</string>
+
+    <string name="c6a">Smart coupon for 50% save on national Brand prosucts</string>
+    <string name="c7a">Family Dollar Store discount coupon code</string>
+    <string name="c1aa">Up to 80% off</string>
+
+
+
+</resources>
